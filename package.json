@@ -2,5 +2,16 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongoose": "^8.2.3"
-  }
+  },
+  "name": "2304g2-uppgift",
+  "description": "��#\u0000 \u00002\u00003\u00000\u00004\u0000G\u00000\u00002\u0000-\u0000U\u0000p\u0000p\u0000g\u0000i\u0000f\u0000t\u0000\r\u0000 \u0000",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
